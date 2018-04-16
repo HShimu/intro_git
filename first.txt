@@ -3,4 +3,4 @@
 　・Git Add
   ・Git Commit
   ・Git rm
-  
+  ・Git Status
