@@ -2,4 +2,5 @@
 2.ワークフローを追加します。
 　・Git Add
   ・Git Commit
+  ・Git rm
   
