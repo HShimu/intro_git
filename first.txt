@@ -4,3 +4,4 @@
   ・Git Commit
   ・Git rm
   ・Git Status
+  ・Git Diff
